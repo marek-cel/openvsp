@@ -1,2 +1,5 @@
-# openvsp-building-script
-[OpenVSP](https://github.com/OpenVSP/OpenVSP) Ubuntu 18.04 (LinuxMint 19.2) building script.
+# openvsp
+[OpenVSP](https://github.com/OpenVSP/OpenVSP) projects and building scripts.
+
+## Building scripts for:
+- Ubuntu 18.04 (LinuxMint 19.2)
